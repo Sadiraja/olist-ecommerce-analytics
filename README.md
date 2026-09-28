@@ -89,7 +89,7 @@ FROM (
 
 ## 🌐 Live Demo
 
-**[👉 View Live Dashboard](https://olist-ecommerce-analytics.streamlit.app)**
+**[👉 View Live Dashboard](https://olist-ecommerce-analytics-uw7ndepz2ram6q3beq5jla.streamlit.app/)**
 
 > *Deployed on Streamlit Community Cloud. Data refreshes monthly.*
 
